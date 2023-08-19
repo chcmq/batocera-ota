@@ -4,25 +4,25 @@
         "name": "batecera-v37.zip",
         "split_name": "batecera-v37.zip",
         "md5": "2e6756248299f21de3d18f0f904c3e06",
-        "size":"1240388126",
+        "size":"157286400",
         "file": [
             {
                 "name": "batecera-v37.zipaa",
-                "md5": "8565ee474bc6a9055666cd3d7c947aaf",
+                "md5": "7669c78fb44d5266f35e8bf0ccaee597",
                 "url":"http://192.168.12.8/chong/batecera-v37.zipaa",
-                "size": "524288000"
+                "size": "52428800"
             },
             {
                 "name": "batecera-v37.zipab",
-                "md5": "e9c4eb1d7b2fedf307ee609a1f3fd48c",
+                "md5": "1c081df8187f50fcc4589d110e2873a9",
                 "url":"http://192.168.12.8/chong/batecera-v37.zipab",
-                "size": "524288000"
+                "size": "52428800"
             },
             {
                 "name": "batecera-v37.zipac",
-                "md5": "c94641ea72068adba1096df2dcafe4a3",
+                "md5": "e27f538dda6ec8d51b18305d56a60e4a",
                 "url":"http://192.168.12.8/chong/batecera-v37.zipac",
-                "size": "191812126"
+                "size": "52428800"
             }
         ]
     }, {
