@@ -2,20 +2,54 @@
     "data": [{
         "id": 1,
         "name": "batecera-v37.zip",
-        "md5": "2cdb5863e21dd789a33e2de0e08f622e",
-        "url":"http://192.168.12.8/chong/batecera-v37.zip",
-        "size":"1240388022"
+        "split_name": "batecera-v37.zip",
+        "md5": "2e6756248299f21de3d18f0f904c3e06",
+        "size":"1240388126",
+        "file": [
+            {
+                "name": "batecera-v37.zipaa",
+                "md5": "8565ee474bc6a9055666cd3d7c947aaf",
+                "url":"http://192.168.12.8/chong/batecera-v37.zipaa",
+                "size": "524288000"
+            },
+            {
+                "name": "batecera-v37.zipab",
+                "md5": "e9c4eb1d7b2fedf307ee609a1f3fd48c",
+                "url":"http://192.168.12.8/chong/batecera-v37.zipab",
+                "size": "524288000"
+            },
+            {
+                "name": "batecera-v37.zipac",
+                "md5": "c94641ea72068adba1096df2dcafe4a3",
+                "url":"http://192.168.12.8/chong/batecera-v37.zipac",
+                "size": "191812126"
+            }
+        ]
     }, {
         "id": 2,
         "name": "lvgl2",
         "md5": "77a6e3bfaed74e72ac5d75c41f127824",
-        "url":"https://github.com/lvgl/lvgl/archive/refs/tags/v8.3.9.zip",
-        "size":"25690596"
+        "size":"25690596",
+        "file": [
+            {
+                "name": "lvgl2",
+                "md5": "77a6e3bfaed74e72ac5d75c41f127824",
+                "url":"https://github.com/lvgl/lvgl/archive/refs/tags/v8.3.9.zip",
+                "size": "25690596"
+            }
+        ]
     }, {
         "id": 3,
         "name": "lvgl3",
         "md5": "77a6e3bfaed74e72ac5d75c41f127824",
-        "url":"https://github.com/lvgl/lvgl/archive/refs/tags/v8.3.9.zip",
-        "size":"25690596"
+        "size":"25690596",
+        "file": [
+            {
+                "name": "lvgl3",
+                "md5": "77a6e3bfaed74e72ac5d75c41f127824",
+                "url":"https://github.com/lvgl/lvgl/archive/refs/tags/v8.3.9.zip",
+                "size": "25690596"
+            }
+        ]
     }]
 }
