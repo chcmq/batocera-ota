@@ -1,10 +1,10 @@
 {
     "data": [{
         "id": 1,
-        "name": "lvgl",
-        "md5": "77a6e3bfaed74e72ac5d75c41f127824",
-        "url":"https://github.com/lvgl/lvgl/archive/refs/tags/v8.3.9.zip",
-        "size":"25690596"
+        "name": "batecera-v37.zip",
+        "md5": "2cdb5863e21dd789a33e2de0e08f622e",
+        "url":"http://192.168.12.8/chong/batecera-v37.zip",
+        "size":"1240388022"
     }, {
         "id": 2,
         "name": "lvgl2",
