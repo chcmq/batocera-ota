@@ -1,109 +1,82 @@
 {
-    "data": [{
-        "id": 1,
-        "name": "batecera-v37.zip",
-        "split_name": "batecera-v37.zip",
-        "md5": "2e6756248299f21de3d18f0f904c3e06",
-        "size":"1240388126",
-        "file": [
-            {
-                "name": "batecera-v37.zip100",
-                "md5": "cea573b34ffa97e42598e63f418b1c4d",
-                "url":"http://192.168.12.8/chong/batecera-v37.zip100",
-                "size": "104857600"
-            },
-            {
-                "name": "batecera-v37.zip101",
-                "md5": "aabf7ce06853b558c4cd75bfe3df1d33",
-                "url":"http://192.168.12.8/chong/batecera-v37.zip101",
-                "size": "104857600"
-            },
-            {
-                "name": "batecera-v37.zip102",
-                "md5": "05c27e3c01d40e88709431b005bb584d",
-                "url":"http://192.168.12.8/chong/batecera-v37.zip102",
-                "size": "104857600"
-            },
-            {
-                "name": "batecera-v37.zip103",
-                "md5": "71d37fd81174ff7f182e5cf823e9db94",
-                "url":"http://192.168.12.8/chong/batecera-v37.zip103",
-                "size": "104857600"
-            },
-            {
-                "name": "batecera-v37.zip104",
-                "md5": "d6782bca94a9cd7d023a5a6861203c45",
-                "url":"http://192.168.12.8/chong/batecera-v37.zip104",
-                "size": "104857600"
-            },
-            {
-                "name": "batecera-v37.zip105",
-                "md5": "65c0d0d2dc0ac23e500f0b3105b43ad6",
-                "url":"http://192.168.12.8/chong/batecera-v37.zip105",
-                "size": "104857600"
-            },
-            {
-                "name": "batecera-v37.zip106",
-                "md5": "6168e30486fec4f942583cf48395a62b",
-                "url":"http://192.168.12.8/chong/batecera-v37.zip106",
-                "size": "104857600"
-            },
-            {
-                "name": "batecera-v37.zip107",
-                "md5": "5c200519f2db833c0d129b00da3a8c97",
-                "url":"http://192.168.12.8/chong/batecera-v37.zip107",
-                "size": "104857600"
-            },
-            {
-                "name": "batecera-v37.zip108",
-                "md5": "6d3d006632c519b83feb162cb93ec159",
-                "url":"http://192.168.12.8/chong/batecera-v37.zip108",
-                "size": "104857600"
-            },
-            {
-                "name": "batecera-v37.zip109",
-                "md5": "c76283cffc6ee42037eb3326b23c4b49",
-                "url":"http://192.168.12.8/chong/batecera-v37.zip109",
-                "size": "104857600"
-            },
-            {
-                "name": "batecera-v37.zip110",
-                "md5": "4291c5d65c96a989db71be8f2007d078",
-                "url":"http://192.168.12.8/chong/batecera-v37.zip110",
-                "size": "104857600"
-            },
-            {
-                "name": "batecera-v37.zip111",
-                "md5": "2774a3fe997cc28b19e642fda05d700d",
-                "url":"http://192.168.12.8/chong/batecera-v37.zip111",
-                "size": "86954526"
-            }
-        ]
-    }, {
-        "id": 2,
-        "name": "lvgl2",
-        "md5": "77a6e3bfaed74e72ac5d75c41f127824",
-        "size":"25690596",
-        "file": [
-            {
-                "name": "lvgl2",
-                "md5": "77a6e3bfaed74e72ac5d75c41f127824",
-                "url":"https://github.com/lvgl/lvgl/archive/refs/tags/v8.3.9.zip",
-                "size": "25690596"
-            }
-        ]
-    }, {
-        "id": 3,
-        "name": "lvgl3",
-        "md5": "77a6e3bfaed74e72ac5d75c41f127824",
-        "size":"25690596",
-        "file": [
-            {
-                "name": "lvgl3",
-                "md5": "77a6e3bfaed74e72ac5d75c41f127824",
-                "url":"https://github.com/lvgl/lvgl/archive/refs/tags/v8.3.9.zip",
-                "size": "25690596"
-            }
-        ]
-    }]
+	"data": [{
+		"id": 1,
+		"name": "batecera-v37.zip",
+		"split_name": "batecera-v37.zip",
+		"md5": "780a810c24bb0c86c5125e0b689412b0",
+		"size": "1240388125",
+		"file": [{
+				"name": "batecera-v37.zip100",
+				"md5": "cea573b34ffa97e42598e63f418b1c4d",
+				"url": "https://github.com/chcmq/batocera-ota/releases/download/batecera-v37.zipaa/batecera-v37.zip100",
+				"size": "104857600"
+			},
+			{
+				"name": "batecera-v37.zip101",
+				"md5": "aabf7ce06853b558c4cd75bfe3df1d33",
+				"url": "https://github.com/chcmq/batocera-ota/releases/download/batecera-v37.zipaa/batecera-v37.zip101",
+				"size": "104857600"
+			},
+			{
+				"name": "batecera-v37.zip102",
+				"md5": "05c27e3c01d40e88709431b005bb584d",
+				"url": "https://github.com/chcmq/batocera-ota/releases/download/batecera-v37.zipaa/batecera-v37.zip102",
+				"size": "104857600"
+			},
+			{
+				"name": "batecera-v37.zip103",
+				"md5": "71d37fd81174ff7f182e5cf823e9db94",
+				"url": "https://github.com/chcmq/batocera-ota/releases/download/batecera-v37.zipaa/batecera-v37.zip103",
+				"size": "104857600"
+			},
+			{
+				"name": "batecera-v37.zip104",
+				"md5": "d6782bca94a9cd7d023a5a6861203c45",
+				"url": "https://github.com/chcmq/batocera-ota/releases/download/batecera-v37.zipaa/batecera-v37.zip104",
+				"size": "104857600"
+			},
+			{
+				"name": "batecera-v37.zip105",
+				"md5": "65c0d0d2dc0ac23e500f0b3105b43ad6",
+				"url": "https://github.com/chcmq/batocera-ota/releases/download/batecera-v37.zipaa/batecera-v37.zip105",
+				"size": "104857600"
+			},
+			{
+				"name": "batecera-v37.zip106",
+				"md5": "6168e30486fec4f942583cf48395a62b",
+				"url": "https://github.com/chcmq/batocera-ota/releases/download/batecera-v37.zipaa/batecera-v37.zip106",
+				"size": "104857600"
+			},
+			{
+				"name": "batecera-v37.zip107",
+				"md5": "5c200519f2db833c0d129b00da3a8c97",
+				"url": "https://github.com/chcmq/batocera-ota/releases/download/batecera-v37.zipaa/batecera-v37.zip107",
+				"size": "104857600"
+			},
+			{
+				"name": "batecera-v37.zip108",
+				"md5": "6d3d006632c519b83feb162cb93ec159",
+				"url": "https://github.com/chcmq/batocera-ota/releases/download/batecera-v37.zipaa/batecera-v37.zip108",
+				"size": "104857600"
+			},
+			{
+				"name": "batecera-v37.zip109",
+				"md5": "c76283cffc6ee42037eb3326b23c4b49",
+				"url": "https://github.com/chcmq/batocera-ota/releases/download/batecera-v37.zipaa/batecera-v37.zip109",
+				"size": "104857600"
+			},
+			{
+				"name": "batecera-v37.zip110",
+				"md5": "4291c5d65c96a989db71be8f2007d078",
+				"url": "https://github.com/chcmq/batocera-ota/releases/download/batecera-v37.zipaa/batecera-v37.zip110",
+				"size": "104857600"
+			},
+			{
+				"name": "batecera-v37.zip111",
+				"md5": "d8cb91a6a7f2a8bd61765d0241f1d930",
+				"url": "https://github.com/chcmq/batocera-ota/releases/download/batecera-v37.zipaa/batecera-v37.zip111",
+				"size": "86954525"
+			}
+		]
+	}]
 }
