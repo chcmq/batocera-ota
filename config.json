@@ -3,19 +3,19 @@
 		"id": 1,
 		"name": "batecera-v37.zip",
 		"split_name": "batecera-v37.zip",
-		"md5": "780a810c24bb0c86c5125e0b689412b0",
-		"size": "1240388125",
+		"md5": "803ca666cf5d9013fa95584deeac894b",
+		"size": "1316305211",
 		"file": [{
 				"name": "batecera-v37.zip100",
-				"md5": "f705ff0022d1d7cdcd38dd485c7e6b5e",
+				"md5": "1007d1a679620438ab4881049d475881",
 				"url": "https://github.com/chcmq/batocera-ota/releases/download/batecera-v37.zipaa/batecera-v37.zip100",
 				"size": "1073741824"
 			},
 			{
 				"name": "batecera-v37.zip101",
-				"md5": "2c0657814a3a0aa183a072b140adefa8",
+				"md5": "ae61009e478378fcf757af299a1f63b7",
 				"url": "https://github.com/chcmq/batocera-ota/releases/download/batecera-v37.zipaa/batecera-v37.zip101",
-				"size": "166646301"
+				"size": "242563387"
 			}
 		]
 	}]
